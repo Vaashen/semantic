@@ -6,4 +6,4 @@ COPY . /app
 
 RUN pip install requirements.txt
 
-CMD python garden.py
+CMD python semantic.py
